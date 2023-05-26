@@ -1,0 +1,39 @@
+#school{
+    font-weight: bold;
+}
+img{
+    width: 115px;
+    border-radius: 500px;
+    float: left;
+}
+.Copyright{
+    background-color: rgb(235, 232, 232);
+    text-align: center;
+}
+.summary{
+    background-color: grey;
+    text-align: center;
+}
+.education{
+    background-color: grey;
+    text-align: center;
+}
+.experience{
+    background-color: grey;
+    text-align:center;
+}
+.skills{
+    background-color: grey;
+    text-align: center;
+}
+.awards{
+    background-color: grey;
+    text-align: center;
+}
+.projects{
+    background-color: grey;
+    text-align: center;
+}
+.name{
+    font-weight: bold;
+}
